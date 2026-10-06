@@ -1,2 +1,0 @@
-# liveline-electronic
-index.html
